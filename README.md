@@ -5,7 +5,7 @@ Do zrobienia:
 - projekty live
 - nodemailer dla formularza kontaktowego
 - nodemailer dla wycen stron
+- galeria
 
 
-
-Zdrobione:
+`` Zrobione: ``
